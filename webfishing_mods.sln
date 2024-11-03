@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{01A98CDA-4AA2-404E-873E-DB6FF229220A}") = "z3roco01.qualityNotifications", "z3roco01.qualityNotifications\z3roco01.qualityNotifications.csproj", "{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A87F0E8-64E9-4B0B-A58D-43116F591A2C}
+	EndGlobalSection
+EndGlobal
